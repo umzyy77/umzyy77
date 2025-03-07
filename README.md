@@ -1,6 +1,3 @@
-<h1 align="center">🚀 Hey, I'm Umzyy 👋</h1>
-<h3 align="center">A passionate Computer Science student from France</h3>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Umzyy.Umzyy" />
 
 <h1 align="center">
